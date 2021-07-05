@@ -7,7 +7,7 @@ It is recommended to watch the video tutorials first which explains the concepts
 
 Link to the Youtube Channel:
 
-bit.ly/CyberExplore
+https://bit.ly/CyberExplore
 
 Link to the Youtube Playlist:
 
